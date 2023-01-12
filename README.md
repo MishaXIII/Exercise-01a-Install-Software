@@ -1,7 +1,7 @@
 # Exercise 01a: Install Software
 
 ## My name is:
-Jason Francis
+Michael Klinberg
 
 ## My gamedev.stackexchange.com user number is:
 169534
